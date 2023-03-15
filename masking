@@ -1,0 +1,5 @@
+data #imported and cleaned data 
+cols #columns to be masked
+
+newdata=data[cols]
+#show newdata
